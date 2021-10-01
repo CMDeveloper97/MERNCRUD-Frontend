@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Create `.env` and create variables inside.
+REACT_APP_BACKEND_URL=`<yourbackendurl>`
+
+
 ## Available Scripts
 
 In the project directory, you can run:
